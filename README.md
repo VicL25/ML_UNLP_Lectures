@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/curso-Machine Learning-1f4e5f" alt="Curso">
+  <img src="https://img.shields.io/badge/curso-MachineLearning-1f4e5f" alt="Curso">
   <img src="https://img.shields.io/badge/lenguaje-R-276DC3" alt="R">
   <img src="https://img.shields.io/badge/slides-Beamer%20(PDF)-c9a227" alt="Beamer">
 </p>
